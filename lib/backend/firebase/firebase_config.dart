@@ -14,7 +14,7 @@ Future initFirebase() async {
   } else {
       await Firebase.initializeApp(
         options: const FirebaseOptions(
-            apiKey: "AIzaSyD0tOTdCLAcXYc7IVPg8tMTYBq4Vj5cDY8",
+            apiKey: "",
             authDomain: "vivafit-personal-app-bdsvxs.firebaseapp.com",
             projectId: "vivafit-personal-app-bdsvxs",
             storageBucket: "vivafit-personal-app-bdsvxs.appspot.com",
